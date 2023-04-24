@@ -1,0 +1,681 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sitio.gestioneditorial" resolutions="1x" timestamp="1679434582830">
+  <folder name="css">
+    <file name="site_global.css" crc="464594822"/>
+    <file name="master_a-master.css" crc="3870063132" ref="1-los-principios-constitucionales:index:3-el-origen-nacional:6-contingencia,-ironía-y-solidaridad:pae-2023:2-una-sentencia-a-favor-de-las-mujeres:5-la-garantía-del-derecho-a-la-participación-política:8-judicialización-y-vida-de-la-diputación-migrante:obras-desplazadas:publicados:4-alcances-del-concepto-de-violencia:7-creación-de-listas-o-registros-de-personas"/>
+    <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="1-los-principios-constitucionales:index:3-el-origen-nacional:6-contingencia,-ironía-y-solidaridad:pae-2023:2-una-sentencia-a-favor-de-las-mujeres:5-la-garantía-del-derecho-a-la-participación-política:8-judicialización-y-vida-de-la-diputación-migrante:obras-desplazadas:publicados:4-alcances-del-concepto-de-violencia:7-creación-de-listas-o-registros-de-personas"/>
+    <file name="1-los-principios-constitucionales.css" crc="206011834" ref="1-los-principios-constitucionales"/>
+    <file name="index.css" crc="323771368" ref="index"/>
+    <file name="nomq_index.css" crc="3889601208" ref="index"/>
+    <file name="3-el-origen-nacional.css" crc="175464365" ref="3-el-origen-nacional"/>
+    <file name="6-contingencia_-iron_a-y-solidaridad.css" crc="3975596221" ref="6-contingencia,-ironía-y-solidaridad"/>
+    <file name="pae-2023.css" crc="3842527446" ref="pae-2023"/>
+    <file name="2-una-sentencia-a-favor-de-las-mujeres.css" crc="459094333" ref="2-una-sentencia-a-favor-de-las-mujeres"/>
+    <file name="5-la-garant_a-del-derecho-a-la-participaci_n-pol_tica.css" crc="255542352" ref="5-la-garantía-del-derecho-a-la-participación-política"/>
+    <file name="8-judicializaci_n-y-vida-de-la-diputaci_n-migrante.css" crc="86838619" ref="8-judicialización-y-vida-de-la-diputación-migrante"/>
+    <file name="obras-desplazadas.css" crc="346916023" ref="obras-desplazadas"/>
+    <file name="publicados.css" crc="4254379786" ref="publicados"/>
+    <file name="nomq_publicados.css" crc="425319245" ref="publicados"/>
+    <file name="4-alcances-del-concepto-de-violencia.css" crc="205541722" ref="4-alcances-del-concepto-de-violencia"/>
+    <file name="7-creaci_n-de-listas-o-registros-de-personas.css" crc="3865192011" ref="7-creación-de-listas-o-registros-de-personas"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="1-los-principios-constitucionales:obras-desplazadas:pae-2023:index:publicados:2-una-sentencia-a-favor-de-las-mujeres:3-el-origen-nacional:4-alcances-del-concepto-de-violencia:5-la-garantía-del-derecho-a-la-participación-política:6-contingencia,-ironía-y-solidaridad:7-creación-de-listas-o-registros-de-personas:8-judicialización-y-vida-de-la-diputación-migrante"/>
+    <file name="museutils.js" crc="3939489907" ref="1-los-principios-constitucionales:obras-desplazadas:pae-2023:index:publicados:2-una-sentencia-a-favor-de-las-mujeres:3-el-origen-nacional:4-alcances-del-concepto-de-violencia:5-la-garantía-del-derecho-a-la-participación-política:6-contingencia,-ironía-y-solidaridad:7-creación-de-listas-o-registros-de-personas:8-judicialización-y-vida-de-la-diputación-migrante"/>
+    <file name="whatinput.js" crc="86476730" ref="1-los-principios-constitucionales:obras-desplazadas:pae-2023:index:publicados:2-una-sentencia-a-favor-de-las-mujeres:3-el-origen-nacional:4-alcances-del-concepto-de-violencia:5-la-garantía-del-derecho-a-la-participación-política:6-contingencia,-ironía-y-solidaridad:7-creación-de-listas-o-registros-de-personas:8-judicialización-y-vida-de-la-diputación-migrante"/>
+    <file name="museconfig.js" crc="3936894949" ref="1-los-principios-constitucionales:obras-desplazadas:pae-2023:index:publicados:2-una-sentencia-a-favor-de-las-mujeres:3-el-origen-nacional:4-alcances-del-concepto-de-violencia:5-la-garantía-del-derecho-a-la-participación-política:6-contingencia,-ironía-y-solidaridad:7-creación-de-listas-o-registros-de-personas:8-judicialización-y-vida-de-la-diputación-migrante"/>
+    <file name="jquery.watch.js" crc="522499760" ref="1-los-principios-constitucionales:obras-desplazadas:pae-2023:index:publicados:2-una-sentencia-a-favor-de-las-mujeres:3-el-origen-nacional:4-alcances-del-concepto-de-violencia:5-la-garantía-del-derecho-a-la-participación-política:6-contingencia,-ironía-y-solidaridad:7-creación-de-listas-o-registros-de-personas:8-judicialización-y-vida-de-la-diputación-migrante"/>
+    <file name="jquery.musemenu.js" crc="4139692962" ref="1-los-principios-constitucionales:obras-desplazadas:pae-2023:index:publicados:2-una-sentencia-a-favor-de-las-mujeres:3-el-origen-nacional:4-alcances-del-concepto-de-violencia:5-la-garantía-del-derecho-a-la-participación-política:6-contingencia,-ironía-y-solidaridad:7-creación-de-listas-o-registros-de-personas:8-judicialización-y-vida-de-la-diputación-migrante"/>
+    <file name="html5shiv.js" crc="4241844378" ref="1-los-principios-constitucionales:obras-desplazadas:pae-2023:index:publicados:2-una-sentencia-a-favor-de-las-mujeres:3-el-origen-nacional:4-alcances-del-concepto-de-violencia:5-la-garantía-del-derecho-a-la-participación-política:6-contingencia,-ironía-y-solidaridad:7-creación-de-listas-o-registros-de-personas:8-judicialización-y-vida-de-la-diputación-migrante"/>
+    <file name="require.js" crc="4177726516" ref="1-los-principios-constitucionales:obras-desplazadas:pae-2023:index:publicados:2-una-sentencia-a-favor-de-las-mujeres:3-el-origen-nacional:4-alcances-del-concepto-de-violencia:5-la-garantía-del-derecho-a-la-participación-política:6-contingencia,-ironía-y-solidaridad:7-creación-de-listas-o-registros-de-personas:8-judicialización-y-vida-de-la-diputación-migrante"/>
+    <file name="jquery.museresponsive.js" crc="95814420" ref="index:publicados"/>
+  </folder>
+  <folder name="images">
+    <file name="header.svg" crc="446433697" seo="true" ref="1-los-principios-constitucionales:obras-desplazadas:pae-2023:index:publicados:2-una-sentencia-a-favor-de-las-mujeres:3-el-origen-nacional:4-alcances-del-concepto-de-violencia:5-la-garantía-del-derecho-a-la-participación-política:6-contingencia,-ironía-y-solidaridad:7-creación-de-listas-o-registros-de-personas:8-judicialización-y-vida-de-la-diputación-migrante">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="3-el-origen-nacional" alt=""/>
+      <caption webpage="4-alcances-del-concepto-de-violencia" alt=""/>
+      <caption webpage="8-judicialización-y-vida-de-la-diputación-migrante" alt=""/>
+      <caption webpage="6-contingencia,-ironía-y-solidaridad" alt=""/>
+      <caption webpage="5-la-garantía-del-derecho-a-la-participación-política" alt=""/>
+      <caption webpage="7-creación-de-listas-o-registros-de-personas" alt=""/>
+      <caption webpage="pae-2023" alt=""/>
+      <caption webpage="publicados" alt=""/>
+      <caption webpage="publicados" alt=""/>
+      <caption webpage="2-una-sentencia-a-favor-de-las-mujeres" alt=""/>
+      <caption webpage="1-los-principios-constitucionales" alt=""/>
+      <caption webpage="obras-desplazadas" alt=""/>
+    </file>
+    <file name="header_poster_.png" crc="243663539" ref="1-los-principios-constitucionales"/>
+    <file name="logo-nueva-cromatica-2020.svg" crc="3815050276" seo="true" ref="1-los-principios-constitucionales:obras-desplazadas:pae-2023:index:publicados:2-una-sentencia-a-favor-de-las-mujeres:3-el-origen-nacional:4-alcances-del-concepto-de-violencia:5-la-garantía-del-derecho-a-la-participación-política:6-contingencia,-ironía-y-solidaridad:7-creación-de-listas-o-registros-de-personas:8-judicialización-y-vida-de-la-diputación-migrante">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="3-el-origen-nacional" alt=""/>
+      <caption webpage="4-alcances-del-concepto-de-violencia" alt=""/>
+      <caption webpage="8-judicialización-y-vida-de-la-diputación-migrante" alt=""/>
+      <caption webpage="6-contingencia,-ironía-y-solidaridad" alt=""/>
+      <caption webpage="5-la-garantía-del-derecho-a-la-participación-política" alt=""/>
+      <caption webpage="7-creación-de-listas-o-registros-de-personas" alt=""/>
+      <caption webpage="pae-2023" alt=""/>
+      <caption webpage="publicados" alt=""/>
+      <caption webpage="publicados" alt=""/>
+      <caption webpage="2-una-sentencia-a-favor-de-las-mujeres" alt=""/>
+      <caption webpage="1-los-principios-constitucionales" alt=""/>
+      <caption webpage="obras-desplazadas" alt=""/>
+    </file>
+    <file name="logo nueva cromatica 2020_poster_.png" crc="429172875" ref="1-los-principios-constitucionales"/>
+    <file name="search.svg" crc="4073447739" seo="true" ref="1-los-principios-constitucionales:obras-desplazadas:pae-2023:index:publicados:2-una-sentencia-a-favor-de-las-mujeres:3-el-origen-nacional:4-alcances-del-concepto-de-violencia:5-la-garantía-del-derecho-a-la-participación-política:6-contingencia,-ironía-y-solidaridad:7-creación-de-listas-o-registros-de-personas:8-judicialización-y-vida-de-la-diputación-migrante">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="3-el-origen-nacional" alt=""/>
+      <caption webpage="4-alcances-del-concepto-de-violencia" alt=""/>
+      <caption webpage="8-judicialización-y-vida-de-la-diputación-migrante" alt=""/>
+      <caption webpage="6-contingencia,-ironía-y-solidaridad" alt=""/>
+      <caption webpage="5-la-garantía-del-derecho-a-la-participación-política" alt=""/>
+      <caption webpage="7-creación-de-listas-o-registros-de-personas" alt=""/>
+      <caption webpage="pae-2023" alt=""/>
+      <caption webpage="publicados" alt=""/>
+      <caption webpage="publicados" alt=""/>
+      <caption webpage="2-una-sentencia-a-favor-de-las-mujeres" alt=""/>
+      <caption webpage="1-los-principios-constitucionales" alt=""/>
+      <caption webpage="obras-desplazadas" alt=""/>
+    </file>
+    <file name="search_poster_.png" crc="42611140" ref="1-los-principios-constitucionales"/>
+    <file name="etapa.svg" crc="4254690217" seo="true" ref="1-los-principios-constitucionales:2-una-sentencia-a-favor-de-las-mujeres:3-el-origen-nacional:4-alcances-del-concepto-de-violencia:5-la-garantía-del-derecho-a-la-participación-política:6-contingencia,-ironía-y-solidaridad:7-creación-de-listas-o-registros-de-personas:8-judicialización-y-vida-de-la-diputación-migrante">
+      <caption webpage="8-judicialización-y-vida-de-la-diputación-migrante" alt=""/>
+      <caption webpage="4-alcances-del-concepto-de-violencia" alt=""/>
+      <caption webpage="6-contingencia,-ironía-y-solidaridad" alt=""/>
+      <caption webpage="5-la-garantía-del-derecho-a-la-participación-política" alt=""/>
+      <caption webpage="3-el-origen-nacional" alt=""/>
+      <caption webpage="2-una-sentencia-a-favor-de-las-mujeres" alt=""/>
+      <caption webpage="1-los-principios-constitucionales" alt=""/>
+      <caption webpage="7-creación-de-listas-o-registros-de-personas" alt=""/>
+    </file>
+    <file name="etapa_poster_.png" crc="3822570113" ref="1-los-principios-constitucionales"/>
+    <file name="calendario.svg" crc="4064342601" seo="true" ref="1-los-principios-constitucionales:2-una-sentencia-a-favor-de-las-mujeres:3-el-origen-nacional:4-alcances-del-concepto-de-violencia:5-la-garantía-del-derecho-a-la-participación-política:6-contingencia,-ironía-y-solidaridad:7-creación-de-listas-o-registros-de-personas:8-judicialización-y-vida-de-la-diputación-migrante">
+      <caption webpage="8-judicialización-y-vida-de-la-diputación-migrante" alt=""/>
+      <caption webpage="8-judicialización-y-vida-de-la-diputación-migrante" alt=""/>
+      <caption webpage="4-alcances-del-concepto-de-violencia" alt=""/>
+      <caption webpage="4-alcances-del-concepto-de-violencia" alt=""/>
+      <caption webpage="6-contingencia,-ironía-y-solidaridad" alt=""/>
+      <caption webpage="6-contingencia,-ironía-y-solidaridad" alt=""/>
+      <caption webpage="5-la-garantía-del-derecho-a-la-participación-política" alt=""/>
+      <caption webpage="5-la-garantía-del-derecho-a-la-participación-política" alt=""/>
+      <caption webpage="3-el-origen-nacional" alt=""/>
+      <caption webpage="3-el-origen-nacional" alt=""/>
+      <caption webpage="2-una-sentencia-a-favor-de-las-mujeres" alt=""/>
+      <caption webpage="2-una-sentencia-a-favor-de-las-mujeres" alt=""/>
+      <caption webpage="1-los-principios-constitucionales" alt=""/>
+      <caption webpage="1-los-principios-constitucionales" alt=""/>
+      <caption webpage="7-creación-de-listas-o-registros-de-personas" alt=""/>
+      <caption webpage="7-creación-de-listas-o-registros-de-personas" alt=""/>
+    </file>
+    <file name="calendario_poster_.png" crc="225193350" ref="1-los-principios-constitucionales"/>
+    <file name="area.svg" crc="4043125339" seo="true" ref="1-los-principios-constitucionales:2-una-sentencia-a-favor-de-las-mujeres:3-el-origen-nacional:4-alcances-del-concepto-de-violencia:5-la-garantía-del-derecho-a-la-participación-política:6-contingencia,-ironía-y-solidaridad:7-creación-de-listas-o-registros-de-personas:8-judicialización-y-vida-de-la-diputación-migrante">
+      <caption webpage="8-judicialización-y-vida-de-la-diputación-migrante" alt=""/>
+      <caption webpage="4-alcances-del-concepto-de-violencia" alt=""/>
+      <caption webpage="6-contingencia,-ironía-y-solidaridad" alt=""/>
+      <caption webpage="5-la-garantía-del-derecho-a-la-participación-política" alt=""/>
+      <caption webpage="3-el-origen-nacional" alt=""/>
+      <caption webpage="2-una-sentencia-a-favor-de-las-mujeres" alt=""/>
+      <caption webpage="1-los-principios-constitucionales" alt=""/>
+      <caption webpage="7-creación-de-listas-o-registros-de-personas" alt=""/>
+    </file>
+    <file name="area_poster_.png" crc="215416783" ref="1-los-principios-constitucionales"/>
+    <file name="cuartillas.svg" crc="86809550" seo="true" ref="1-los-principios-constitucionales:2-una-sentencia-a-favor-de-las-mujeres:3-el-origen-nacional:4-alcances-del-concepto-de-violencia:5-la-garantía-del-derecho-a-la-participación-política:6-contingencia,-ironía-y-solidaridad:7-creación-de-listas-o-registros-de-personas:8-judicialización-y-vida-de-la-diputación-migrante">
+      <caption webpage="8-judicialización-y-vida-de-la-diputación-migrante" alt=""/>
+      <caption webpage="4-alcances-del-concepto-de-violencia" alt=""/>
+      <caption webpage="6-contingencia,-ironía-y-solidaridad" alt=""/>
+      <caption webpage="5-la-garantía-del-derecho-a-la-participación-política" alt=""/>
+      <caption webpage="3-el-origen-nacional" alt=""/>
+      <caption webpage="2-una-sentencia-a-favor-de-las-mujeres" alt=""/>
+      <caption webpage="1-los-principios-constitucionales" alt=""/>
+      <caption webpage="7-creación-de-listas-o-registros-de-personas" alt=""/>
+    </file>
+    <file name="cuartillas_poster_.png" crc="4141735501" ref="1-los-principios-constitucionales"/>
+    <file name="costo.svg" crc="361085545" seo="true" ref="1-los-principios-constitucionales:2-una-sentencia-a-favor-de-las-mujeres:3-el-origen-nacional:4-alcances-del-concepto-de-violencia:5-la-garantía-del-derecho-a-la-participación-política:6-contingencia,-ironía-y-solidaridad:7-creación-de-listas-o-registros-de-personas:8-judicialización-y-vida-de-la-diputación-migrante">
+      <caption webpage="8-judicialización-y-vida-de-la-diputación-migrante" alt=""/>
+      <caption webpage="4-alcances-del-concepto-de-violencia" alt=""/>
+      <caption webpage="6-contingencia,-ironía-y-solidaridad" alt=""/>
+      <caption webpage="5-la-garantía-del-derecho-a-la-participación-política" alt=""/>
+      <caption webpage="3-el-origen-nacional" alt=""/>
+      <caption webpage="2-una-sentencia-a-favor-de-las-mujeres" alt=""/>
+      <caption webpage="1-los-principios-constitucionales" alt=""/>
+      <caption webpage="7-creación-de-listas-o-registros-de-personas" alt=""/>
+    </file>
+    <file name="costo_poster_.png" crc="140063540" ref="1-los-principios-constitucionales"/>
+    <file name="tiraje.svg" crc="291926670" seo="true" ref="1-los-principios-constitucionales:2-una-sentencia-a-favor-de-las-mujeres:3-el-origen-nacional:4-alcances-del-concepto-de-violencia:5-la-garantía-del-derecho-a-la-participación-política:6-contingencia,-ironía-y-solidaridad:7-creación-de-listas-o-registros-de-personas:8-judicialización-y-vida-de-la-diputación-migrante">
+      <caption webpage="8-judicialización-y-vida-de-la-diputación-migrante" alt=""/>
+      <caption webpage="4-alcances-del-concepto-de-violencia" alt=""/>
+      <caption webpage="6-contingencia,-ironía-y-solidaridad" alt=""/>
+      <caption webpage="5-la-garantía-del-derecho-a-la-participación-política" alt=""/>
+      <caption webpage="3-el-origen-nacional" alt=""/>
+      <caption webpage="2-una-sentencia-a-favor-de-las-mujeres" alt=""/>
+      <caption webpage="1-los-principios-constitucionales" alt=""/>
+      <caption webpage="7-creación-de-listas-o-registros-de-personas" alt=""/>
+    </file>
+    <file name="tiraje_poster_.png" crc="10091881" ref="1-los-principios-constitucionales"/>
+    <file name="soporte.svg" crc="4293018376" seo="true" ref="1-los-principios-constitucionales:2-una-sentencia-a-favor-de-las-mujeres:3-el-origen-nacional:4-alcances-del-concepto-de-violencia:5-la-garantía-del-derecho-a-la-participación-política:6-contingencia,-ironía-y-solidaridad:7-creación-de-listas-o-registros-de-personas:8-judicialización-y-vida-de-la-diputación-migrante">
+      <caption webpage="8-judicialización-y-vida-de-la-diputación-migrante" alt=""/>
+      <caption webpage="4-alcances-del-concepto-de-violencia" alt=""/>
+      <caption webpage="6-contingencia,-ironía-y-solidaridad" alt=""/>
+      <caption webpage="5-la-garantía-del-derecho-a-la-participación-política" alt=""/>
+      <caption webpage="3-el-origen-nacional" alt=""/>
+      <caption webpage="2-una-sentencia-a-favor-de-las-mujeres" alt=""/>
+      <caption webpage="1-los-principios-constitucionales" alt=""/>
+      <caption webpage="7-creación-de-listas-o-registros-de-personas" alt=""/>
+    </file>
+    <file name="soporte_poster_.png" crc="3768661565" ref="1-los-principios-constitucionales"/>
+    <file name="mockup estrada-crop-u11029.png" crc="4180669914" seo="true" ref="1-los-principios-constitucionales">
+      <caption webpage="1-los-principios-constitucionales" alt=""/>
+    </file>
+    <file name="twitter-editorial.svg" crc="386704648" seo="true" ref="1-los-principios-constitucionales:obras-desplazadas:pae-2023:index:publicados:2-una-sentencia-a-favor-de-las-mujeres:3-el-origen-nacional:4-alcances-del-concepto-de-violencia:5-la-garantía-del-derecho-a-la-participación-política:6-contingencia,-ironía-y-solidaridad:7-creación-de-listas-o-registros-de-personas:8-judicialización-y-vida-de-la-diputación-migrante">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="3-el-origen-nacional" alt=""/>
+      <caption webpage="4-alcances-del-concepto-de-violencia" alt=""/>
+      <caption webpage="8-judicialización-y-vida-de-la-diputación-migrante" alt=""/>
+      <caption webpage="6-contingencia,-ironía-y-solidaridad" alt=""/>
+      <caption webpage="5-la-garantía-del-derecho-a-la-participación-política" alt=""/>
+      <caption webpage="7-creación-de-listas-o-registros-de-personas" alt=""/>
+      <caption webpage="pae-2023" alt=""/>
+      <caption webpage="publicados" alt=""/>
+      <caption webpage="publicados" alt=""/>
+      <caption webpage="2-una-sentencia-a-favor-de-las-mujeres" alt=""/>
+      <caption webpage="1-los-principios-constitucionales" alt=""/>
+      <caption webpage="obras-desplazadas" alt=""/>
+    </file>
+    <file name="twitter editorial_poster_.png" crc="35259682" ref="1-los-principios-constitucionales"/>
+    <file name="fb-editorial.svg" crc="4120060082" seo="true" ref="1-los-principios-constitucionales:obras-desplazadas:pae-2023:index:publicados:2-una-sentencia-a-favor-de-las-mujeres:3-el-origen-nacional:4-alcances-del-concepto-de-violencia:5-la-garantía-del-derecho-a-la-participación-política:6-contingencia,-ironía-y-solidaridad:7-creación-de-listas-o-registros-de-personas:8-judicialización-y-vida-de-la-diputación-migrante">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="3-el-origen-nacional" alt=""/>
+      <caption webpage="4-alcances-del-concepto-de-violencia" alt=""/>
+      <caption webpage="8-judicialización-y-vida-de-la-diputación-migrante" alt=""/>
+      <caption webpage="6-contingencia,-ironía-y-solidaridad" alt=""/>
+      <caption webpage="5-la-garantía-del-derecho-a-la-participación-política" alt=""/>
+      <caption webpage="7-creación-de-listas-o-registros-de-personas" alt=""/>
+      <caption webpage="pae-2023" alt=""/>
+      <caption webpage="publicados" alt=""/>
+      <caption webpage="publicados" alt=""/>
+      <caption webpage="2-una-sentencia-a-favor-de-las-mujeres" alt=""/>
+      <caption webpage="1-los-principios-constitucionales" alt=""/>
+      <caption webpage="obras-desplazadas" alt=""/>
+    </file>
+    <file name="fb editorial_poster_.png" crc="3778361751" ref="1-los-principios-constitucionales"/>
+    <file name="footer.jpg" crc="4187191138" seo="true" ref="1-los-principios-constitucionales:obras-desplazadas:pae-2023:index:publicados:2-una-sentencia-a-favor-de-las-mujeres:3-el-origen-nacional:4-alcances-del-concepto-de-violencia:5-la-garantía-del-derecho-a-la-participación-política:6-contingencia,-ironía-y-solidaridad:7-creación-de-listas-o-registros-de-personas:8-judicialización-y-vida-de-la-diputación-migrante">
+      <caption webpage="index" alt=""/>
+      <caption webpage="3-el-origen-nacional" alt=""/>
+      <caption webpage="4-alcances-del-concepto-de-violencia" alt=""/>
+      <caption webpage="8-judicialización-y-vida-de-la-diputación-migrante" alt=""/>
+      <caption webpage="6-contingencia,-ironía-y-solidaridad" alt=""/>
+      <caption webpage="5-la-garantía-del-derecho-a-la-participación-política" alt=""/>
+      <caption webpage="7-creación-de-listas-o-registros-de-personas" alt=""/>
+      <caption webpage="pae-2023" alt=""/>
+      <caption webpage="publicados" alt=""/>
+      <caption webpage="2-una-sentencia-a-favor-de-las-mujeres" alt=""/>
+      <caption webpage="1-los-principios-constitucionales" alt=""/>
+      <caption webpage="obras-desplazadas" alt=""/>
+    </file>
+    <file name="axis-crop-u25130.png" crc="19187710" seo="true" ref="obras-desplazadas">
+      <caption webpage="obras-desplazadas" alt=""/>
+    </file>
+    <file name="flecha-back.svg" crc="102079574" seo="true" ref="obras-desplazadas:pae-2023:publicados">
+      <caption webpage="pae-2023" alt=""/>
+      <caption webpage="pae-2023" alt=""/>
+      <caption webpage="pae-2023" alt=""/>
+      <caption webpage="pae-2023" alt=""/>
+      <caption webpage="pae-2023" alt=""/>
+      <caption webpage="pae-2023" alt=""/>
+      <caption webpage="pae-2023" alt=""/>
+      <caption webpage="pae-2023" alt=""/>
+      <caption webpage="pae-2023" alt=""/>
+      <caption webpage="pae-2023" alt=""/>
+      <caption webpage="pae-2023" alt=""/>
+      <caption webpage="pae-2023" alt=""/>
+      <caption webpage="pae-2023" alt=""/>
+      <caption webpage="publicados" alt=""/>
+      <caption webpage="publicados" alt=""/>
+      <caption webpage="obras-desplazadas" alt=""/>
+      <caption webpage="obras-desplazadas" alt=""/>
+      <caption webpage="obras-desplazadas" alt=""/>
+      <caption webpage="obras-desplazadas" alt=""/>
+      <caption webpage="obras-desplazadas" alt=""/>
+      <caption webpage="obras-desplazadas" alt=""/>
+    </file>
+    <file name="flecha back_poster_.png" crc="491965763" ref="obras-desplazadas"/>
+    <file name="mockup estrada-crop-u25112.png" crc="4088067425" seo="true" ref="obras-desplazadas">
+      <caption webpage="obras-desplazadas" alt=""/>
+    </file>
+    <file name="mockup marvan-crop-u25092.png" crc="3930055788" seo="true" ref="obras-desplazadas">
+      <caption webpage="obras-desplazadas" alt=""/>
+    </file>
+    <file name="mockup maas-crop-u25055.png" crc="4230018245" seo="true" ref="obras-desplazadas">
+      <caption webpage="obras-desplazadas" alt=""/>
+    </file>
+    <file name="mockup caballero-crop-u34231.png" crc="298391154" seo="true" ref="obras-desplazadas">
+      <caption webpage="obras-desplazadas" alt=""/>
+    </file>
+    <file name="mockup apreza-crop-u25073.png" crc="31535186" seo="true" ref="obras-desplazadas">
+      <caption webpage="obras-desplazadas" alt=""/>
+    </file>
+    <file name="mockup flores-crop-u34304.png" crc="179971626" seo="true" ref="obras-desplazadas">
+      <caption webpage="obras-desplazadas" alt=""/>
+    </file>
+    <file name="mockup concha-crop-u34330.png" crc="3994794782" seo="true" ref="obras-desplazadas">
+      <caption webpage="obras-desplazadas" alt=""/>
+    </file>
+    <file name="mockup piña-crop-u34342.png" crc="182215884" seo="true" ref="obras-desplazadas">
+      <caption webpage="obras-desplazadas" alt=""/>
+    </file>
+    <file name="mockup novedades digitales copia-crop-u34317.png" crc="380401799" seo="true" ref="obras-desplazadas">
+      <caption webpage="obras-desplazadas" alt=""/>
+    </file>
+    <file name="mockup novedades digitales copia-crop-u34408.png" crc="380401799" seo="true" ref="obras-desplazadas">
+      <caption webpage="obras-desplazadas" alt=""/>
+    </file>
+    <file name="mockup novedades digitales copia-crop-u34421.png" crc="380401799" seo="true" ref="obras-desplazadas">
+      <caption webpage="obras-desplazadas" alt=""/>
+    </file>
+    <file name="mockup novedades digitales copia-crop-u34394.png" crc="380401799" seo="true" ref="obras-desplazadas">
+      <caption webpage="obras-desplazadas" alt=""/>
+    </file>
+    <file name="mockup novedades digitales copia-crop-u34460.png" crc="380401799" seo="true" ref="obras-desplazadas">
+      <caption webpage="obras-desplazadas" alt=""/>
+    </file>
+    <file name="dhd-crop-u34491.png" crc="4213359629" seo="true" ref="obras-desplazadas">
+      <caption webpage="obras-desplazadas" alt=""/>
+    </file>
+    <file name="dhd-crop-u34479.png" crc="4213359629" seo="true" ref="obras-desplazadas">
+      <caption webpage="obras-desplazadas" alt=""/>
+    </file>
+    <file name="dhd-crop-u34505.png" crc="196953330" seo="true" ref="obras-desplazadas">
+      <caption webpage="obras-desplazadas" alt=""/>
+    </file>
+    <file name="rje-crop-u35993.png" crc="4101986830" seo="true" ref="obras-desplazadas">
+      <caption webpage="obras-desplazadas" alt=""/>
+    </file>
+    <file name="jea-crop-u34817.png" crc="163057700" seo="true" ref="obras-desplazadas">
+      <caption webpage="obras-desplazadas" alt=""/>
+    </file>
+    <file name="jea-crop-u34800.png" crc="317809087" seo="true" ref="obras-desplazadas">
+      <caption webpage="obras-desplazadas" alt=""/>
+    </file>
+    <file name="mockup novedades digitales copia-crop-u34984.png" crc="4067986989" seo="true" ref="obras-desplazadas">
+      <caption webpage="obras-desplazadas" alt=""/>
+    </file>
+    <file name="fc-crop-u35062.png" crc="524033812" seo="true" ref="obras-desplazadas">
+      <caption webpage="obras-desplazadas" alt=""/>
+    </file>
+    <file name="fc-crop-u35047.png" crc="524033812" seo="true" ref="obras-desplazadas">
+      <caption webpage="obras-desplazadas" alt=""/>
+    </file>
+    <file name="axis-crop-u35782.png" crc="3843830039" seo="true" ref="pae-2023">
+      <caption webpage="pae-2023" alt=""/>
+    </file>
+    <file name="axis-crop-u35347.png" crc="3843830039" seo="true" ref="pae-2023">
+      <caption webpage="pae-2023" alt=""/>
+    </file>
+    <file name="mockup novedades digitales copia-crop-u35362.png" crc="380401799" seo="true" ref="pae-2023">
+      <caption webpage="pae-2023" alt=""/>
+    </file>
+    <file name="mockup novedades digitales copia-crop-u35483.png" crc="380401799" seo="true" ref="pae-2023">
+      <caption webpage="pae-2023" alt=""/>
+    </file>
+    <file name="mockup novedades digitales copia-crop-u35490.png" crc="4067986989" seo="true" ref="pae-2023">
+      <caption webpage="pae-2023" alt=""/>
+    </file>
+    <file name="mockup novedades digitales copia-crop-u35320.png" crc="380401799" seo="true" ref="pae-2023">
+      <caption webpage="pae-2023" alt=""/>
+    </file>
+    <file name="mockup novedades digitales copia-crop-u35411.png" crc="380401799" seo="true" ref="pae-2023">
+      <caption webpage="pae-2023" alt=""/>
+    </file>
+    <file name="mockup novedades digitales copia-crop-u35456.png" crc="380401799" seo="true" ref="pae-2023">
+      <caption webpage="pae-2023" alt=""/>
+    </file>
+    <file name="mockup novedades digitales copia-crop-u35431.png" crc="380401799" seo="true" ref="pae-2023">
+      <caption webpage="pae-2023" alt=""/>
+    </file>
+    <file name="mockup novedades digitales copia-crop-u35501.png" crc="380401799" seo="true" ref="pae-2023">
+      <caption webpage="pae-2023" alt=""/>
+    </file>
+    <file name="mockup novedades digitales copia-crop-u35332.png" crc="380401799" seo="true" ref="pae-2023">
+      <caption webpage="pae-2023" alt=""/>
+    </file>
+    <file name="mockup novedades digitales copia-crop-u35408.png" crc="380401799" seo="true" ref="pae-2023">
+      <caption webpage="pae-2023" alt=""/>
+    </file>
+    <file name="mockup novedades digitales copia-crop-u35494.png" crc="380401799" seo="true" ref="pae-2023">
+      <caption webpage="pae-2023" alt=""/>
+    </file>
+    <file name="mockup novedades digitales copia-crop-u35383.png" crc="380401799" seo="true" ref="pae-2023">
+      <caption webpage="pae-2023" alt=""/>
+    </file>
+    <file name="mockup novedades digitales copia-crop-u35839.png" crc="380401799" seo="true" ref="pae-2023">
+      <caption webpage="pae-2023" alt=""/>
+    </file>
+    <file name="mockup novedades digitales copia-crop-u35351.png" crc="380401799" seo="true" ref="pae-2023">
+      <caption webpage="pae-2023" alt=""/>
+    </file>
+    <file name="mockup novedades digitales copia-crop-u35853.png" crc="380401799" seo="true" ref="pae-2023">
+      <caption webpage="pae-2023" alt=""/>
+    </file>
+    <file name="mockup novedades digitales copia-crop-u35872.png" crc="380401799" seo="true" ref="pae-2023">
+      <caption webpage="pae-2023" alt=""/>
+    </file>
+    <file name="dhd-crop-u35422.png" crc="4213359629" seo="true" ref="pae-2023">
+      <caption webpage="pae-2023" alt=""/>
+    </file>
+    <file name="dhd-crop-u35337.png" crc="196953330" seo="true" ref="pae-2023">
+      <caption webpage="pae-2023" alt=""/>
+    </file>
+    <file name="jea-crop-u35444.png" crc="160982339" seo="true" ref="pae-2023">
+      <caption webpage="pae-2023" alt=""/>
+    </file>
+    <file name="jea-crop-u35471.png" crc="317809087" seo="true" ref="pae-2023">
+      <caption webpage="pae-2023" alt=""/>
+    </file>
+    <file name="mockup gris-crop-u36049.png" crc="3831706251" seo="true" ref="pae-2023">
+      <caption webpage="pae-2023" alt=""/>
+    </file>
+    <file name="mockup gris-crop-u36066.png" crc="3831706251" seo="true" ref="pae-2023">
+      <caption webpage="pae-2023" alt=""/>
+    </file>
+    <file name="mockup gris-crop-u36073.png" crc="3831706251" seo="true" ref="pae-2023">
+      <caption webpage="pae-2023" alt=""/>
+    </file>
+    <file name="rje-crop-u36031.png" crc="4101986830" seo="true" ref="pae-2023">
+      <caption webpage="pae-2023" alt=""/>
+    </file>
+    <file name="rje-crop-u36010.png" crc="4101986830" seo="true" ref="pae-2023">
+      <caption webpage="pae-2023" alt=""/>
+    </file>
+    <file name="srce.png" crc="3790635828" seo="true" ref="pae-2023">
+      <caption webpage="pae-2023" alt=""/>
+      <caption webpage="pae-2023" alt=""/>
+      <caption webpage="pae-2023" alt=""/>
+      <caption webpage="pae-2023" alt=""/>
+    </file>
+    <file name="cuadernilo-8-crop-u36246.png" crc="4108471030" seo="true" ref="pae-2023">
+      <caption webpage="pae-2023" alt=""/>
+    </file>
+    <file name="cuadernilo-9-crop-u36258.png" crc="416720574" seo="true" ref="pae-2023">
+      <caption webpage="pae-2023" alt=""/>
+    </file>
+    <file name="cuadernilo-7-crop-u36209.png" crc="3916500154" seo="true" ref="pae-2023">
+      <caption webpage="pae-2023" alt=""/>
+    </file>
+    <file name="cuadernilo-11-crop-u36310.png" crc="4141531486" seo="true" ref="pae-2023">
+      <caption webpage="pae-2023" alt=""/>
+    </file>
+    <file name="cuadernilo-10-crop-u36294.png" crc="117800883" seo="true" ref="pae-2023">
+      <caption webpage="pae-2023" alt=""/>
+    </file>
+    <file name="cuadernilo-12-crop-u36326.png" crc="278358860" seo="true" ref="pae-2023">
+      <caption webpage="pae-2023" alt=""/>
+    </file>
+    <file name="gjyt-crop-u36415.png" crc="3908024454" seo="true" ref="pae-2023">
+      <caption webpage="pae-2023" alt=""/>
+    </file>
+    <file name="gjyt-crop-u36500.png" crc="3908024454" seo="true" ref="pae-2023">
+      <caption webpage="pae-2023" alt=""/>
+    </file>
+    <file name="gjyt-crop-u36514.png" crc="3908024454" seo="true" ref="pae-2023">
+      <caption webpage="pae-2023" alt=""/>
+    </file>
+    <file name="mockup gris-crop-u36784.png" crc="3831706251" seo="true" ref="pae-2023">
+      <caption webpage="pae-2023" alt=""/>
+    </file>
+    <file name="mockup gris-crop-u36791.png" crc="3831706251" seo="true" ref="pae-2023">
+      <caption webpage="pae-2023" alt=""/>
+    </file>
+    <file name="mockup gris-crop-u36812.png" crc="3831706251" seo="true" ref="pae-2023">
+      <caption webpage="pae-2023" alt=""/>
+    </file>
+    <file name="mockup gris-crop-u36819.png" crc="3831706251" seo="true" ref="pae-2023">
+      <caption webpage="pae-2023" alt=""/>
+    </file>
+    <file name="mockup gris-crop-u36826.png" crc="3831706251" seo="true" ref="pae-2023">
+      <caption webpage="pae-2023" alt=""/>
+    </file>
+    <file name="mockup gris-crop-u36833.png" crc="3831706251" seo="true" ref="pae-2023">
+      <caption webpage="pae-2023" alt=""/>
+    </file>
+    <file name="mockup gris-crop-u36840.png" crc="3831706251" seo="true" ref="pae-2023">
+      <caption webpage="pae-2023" alt=""/>
+    </file>
+    <file name="mockup gris-crop-u36847.png" crc="3831706251" seo="true" ref="pae-2023">
+      <caption webpage="pae-2023" alt=""/>
+    </file>
+    <file name="mockup gris-crop-u36854.png" crc="3831706251" seo="true" ref="pae-2023">
+      <caption webpage="pae-2023" alt=""/>
+    </file>
+    <file name="mockup gris-crop-u36861.png" crc="3831706251" seo="true" ref="pae-2023">
+      <caption webpage="pae-2023" alt=""/>
+    </file>
+    <file name="mockup gris-crop-u36868.png" crc="3831706251" seo="true" ref="pae-2023">
+      <caption webpage="pae-2023" alt=""/>
+    </file>
+    <file name="mockup gris-crop-u36875.png" crc="3831706251" seo="true" ref="pae-2023">
+      <caption webpage="pae-2023" alt=""/>
+    </file>
+    <file name="mockup gris-crop-u36882.png" crc="3831706251" seo="true" ref="pae-2023">
+      <caption webpage="pae-2023" alt=""/>
+    </file>
+    <file name="mockup gris-crop-u36889.png" crc="3831706251" seo="true" ref="pae-2023">
+      <caption webpage="pae-2023" alt=""/>
+    </file>
+    <file name="mockup gris-crop-u36896.png" crc="3831706251" seo="true" ref="pae-2023">
+      <caption webpage="pae-2023" alt=""/>
+    </file>
+    <file name="mockup gris-crop-u36903.png" crc="3831706251" seo="true" ref="pae-2023">
+      <caption webpage="pae-2023" alt=""/>
+    </file>
+    <file name="mockup gris-crop-u36910.png" crc="3831706251" seo="true" ref="pae-2023">
+      <caption webpage="pae-2023" alt=""/>
+    </file>
+    <file name="mockup gris-crop-u36917.png" crc="3831706251" seo="true" ref="pae-2023">
+      <caption webpage="pae-2023" alt=""/>
+    </file>
+    <file name="mockup gris-crop-u37117.png" crc="3831706251" seo="true" ref="pae-2023">
+      <caption webpage="pae-2023" alt=""/>
+    </file>
+    <file name="mockup gris-crop-u37124.png" crc="3831706251" seo="true" ref="pae-2023">
+      <caption webpage="pae-2023" alt=""/>
+    </file>
+    <file name="fc-crop-u37097.png" crc="524033812" seo="true" ref="pae-2023">
+      <caption webpage="pae-2023" alt=""/>
+    </file>
+    <file name="fc-crop-u37133.png" crc="524033812" seo="true" ref="pae-2023">
+      <caption webpage="pae-2023" alt=""/>
+    </file>
+    <file name="fc-crop-u37084.png" crc="333752560" seo="true" ref="pae-2023">
+      <caption webpage="pae-2023" alt=""/>
+    </file>
+    <file name="fc-crop-u37641.png" crc="524033812" seo="true" ref="pae-2023">
+      <caption webpage="pae-2023" alt=""/>
+    </file>
+    <file name="fc-crop-u37625.png" crc="524033812" seo="true" ref="pae-2023">
+      <caption webpage="pae-2023" alt=""/>
+    </file>
+    <file name="fc-crop-u37657.png" crc="333752560" seo="true" ref="pae-2023">
+      <caption webpage="pae-2023" alt=""/>
+    </file>
+    <file name="fc-crop-u37693.png" crc="524033812" seo="true" ref="pae-2023">
+      <caption webpage="pae-2023" alt=""/>
+    </file>
+    <file name="fc-crop-u37705.png" crc="524033812" seo="true" ref="pae-2023">
+      <caption webpage="pae-2023" alt=""/>
+    </file>
+    <file name="fc-crop-u37673.png" crc="333752560" seo="true" ref="pae-2023">
+      <caption webpage="pae-2023" alt=""/>
+    </file>
+    <file name="fc-crop-u37738.png" crc="524033812" seo="true" ref="pae-2023">
+      <caption webpage="pae-2023" alt=""/>
+    </file>
+    <file name="fc-crop-u37722.png" crc="524033812" seo="true" ref="pae-2023">
+      <caption webpage="pae-2023" alt=""/>
+    </file>
+    <file name="fc-crop-u37754.png" crc="333752560" seo="true" ref="pae-2023">
+      <caption webpage="pae-2023" alt=""/>
+    </file>
+    <file name="fc-crop-u37788.png" crc="524033812" seo="true" ref="pae-2023">
+      <caption webpage="pae-2023" alt=""/>
+    </file>
+    <file name="fc-crop-u37775.png" crc="524033812" seo="true" ref="pae-2023">
+      <caption webpage="pae-2023" alt=""/>
+    </file>
+    <file name="fc-crop-u37805.png" crc="333752560" seo="true" ref="pae-2023">
+      <caption webpage="pae-2023" alt=""/>
+    </file>
+    <file name="fc-crop-u37828.png" crc="333752560" seo="true" ref="pae-2023">
+      <caption webpage="pae-2023" alt=""/>
+    </file>
+    <file name="fc-crop-u37908.png" crc="333752560" seo="true" ref="pae-2023">
+      <caption webpage="pae-2023" alt=""/>
+    </file>
+    <file name="fc-crop-u37821.png" crc="524033812" seo="true" ref="pae-2023">
+      <caption webpage="pae-2023" alt=""/>
+    </file>
+    <file name="fc-crop-u37892.png" crc="524033812" seo="true" ref="pae-2023">
+      <caption webpage="pae-2023" alt=""/>
+    </file>
+    <file name="fc-crop-u37825.png" crc="524033812" seo="true" ref="pae-2023">
+      <caption webpage="pae-2023" alt=""/>
+    </file>
+    <file name="fc-crop-u37877.png" crc="524033812" seo="true" ref="pae-2023">
+      <caption webpage="pae-2023" alt=""/>
+    </file>
+    <file name="fc-crop-u37924.png" crc="333752560" seo="true" ref="pae-2023">
+      <caption webpage="pae-2023" alt=""/>
+    </file>
+    <file name="desplazados 2023-crop-u38285.png" crc="69439492" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mockup gris-crop-u38289.png" crc="3764739446" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="novedad.jpg" crc="382908808" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="desplazados 2023-crop-u382852.png" crc="69439492" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mockup gris-crop-u382892.png" crc="3764739446" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="novedad2.jpg" crc="110224114" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="footer320x88.jpg" crc="3838532886" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:publicados"/>
+    <file name="fc-crop-u39200.png" crc="333752560" seo="true" ref="publicados">
+      <caption webpage="publicados" alt=""/>
+    </file>
+    <file name="fc-crop-u39204.png" crc="333752560" seo="true" ref="publicados">
+      <caption webpage="publicados" alt=""/>
+    </file>
+    <file name="fc-crop-u39185.png" crc="524033812" seo="true" ref="publicados">
+      <caption webpage="publicados" alt=""/>
+    </file>
+    <file name="fc-crop-u39188.png" crc="524033812" seo="true" ref="publicados">
+      <caption webpage="publicados" alt=""/>
+    </file>
+    <file name="fc-crop-u39196.png" crc="524033812" seo="true" ref="publicados">
+      <caption webpage="publicados" alt=""/>
+    </file>
+    <file name="fc-crop-u39193.png" crc="524033812" seo="true" ref="publicados">
+      <caption webpage="publicados" alt=""/>
+    </file>
+    <file name="cuadernilo-8-crop-u39048.png" crc="4108471030" seo="true" ref="publicados">
+      <caption webpage="publicados" alt=""/>
+    </file>
+    <file name="cuadernilo-9-crop-u39056.png" crc="416720574" seo="true" ref="publicados">
+      <caption webpage="publicados" alt=""/>
+    </file>
+    <file name="cuadernilo-7-crop-u39024.png" crc="3916500154" seo="true" ref="publicados">
+      <caption webpage="publicados" alt=""/>
+    </file>
+    <file name="cuadernilo-11-crop-u39052.png" crc="4141531486" seo="true" ref="publicados">
+      <caption webpage="publicados" alt=""/>
+    </file>
+    <file name="cuadernilo-10-crop-u39050.png" crc="117800883" seo="true" ref="publicados">
+      <caption webpage="publicados" alt=""/>
+    </file>
+    <file name="cuadernilo-12-crop-u39054.png" crc="278358860" seo="true" ref="publicados">
+      <caption webpage="publicados" alt=""/>
+    </file>
+    <file name="fc-crop-u392002.png" crc="258620804" seo="true" ref="publicados">
+      <caption webpage="publicados" alt=""/>
+    </file>
+    <file name="fc-crop-u392042.png" crc="258620804" seo="true" ref="publicados">
+      <caption webpage="publicados" alt=""/>
+    </file>
+    <file name="fc-crop-u391852.png" crc="4232958385" seo="true" ref="publicados">
+      <caption webpage="publicados" alt=""/>
+    </file>
+    <file name="fc-crop-u391882.png" crc="4232958385" seo="true" ref="publicados">
+      <caption webpage="publicados" alt=""/>
+    </file>
+    <file name="fc-crop-u391962.png" crc="4232958385" seo="true" ref="publicados">
+      <caption webpage="publicados" alt=""/>
+    </file>
+    <file name="fc-crop-u391932.png" crc="4232958385" seo="true" ref="publicados">
+      <caption webpage="publicados" alt=""/>
+    </file>
+    <file name="cuadernilo-8-crop-u390482.png" crc="4081044128" seo="true" ref="publicados">
+      <caption webpage="publicados" alt=""/>
+    </file>
+    <file name="cuadernilo-9-crop-u390562.png" crc="4163119907" seo="true" ref="publicados">
+      <caption webpage="publicados" alt=""/>
+    </file>
+    <file name="cuadernilo-7-crop-u390242.png" crc="187769324" seo="true" ref="publicados">
+      <caption webpage="publicados" alt=""/>
+    </file>
+    <file name="cuadernilo-11-crop-u390522.png" crc="3765230516" seo="true" ref="publicados">
+      <caption webpage="publicados" alt=""/>
+    </file>
+    <file name="cuadernilo-10-crop-u390502.png" crc="3976650079" seo="true" ref="publicados">
+      <caption webpage="publicados" alt=""/>
+    </file>
+    <file name="cuadernilo-12-crop-u390542.png" crc="3823822914" seo="true" ref="publicados">
+      <caption webpage="publicados" alt=""/>
+    </file>
+    <file name="mockup marvan-crop-u40581.png" crc="3770349658" seo="true" ref="2-una-sentencia-a-favor-de-las-mujeres">
+      <caption webpage="2-una-sentencia-a-favor-de-las-mujeres" alt=""/>
+    </file>
+    <file name="mockup maas-crop-u40863.png" crc="3975365222" seo="true" ref="3-el-origen-nacional">
+      <caption webpage="3-el-origen-nacional" alt=""/>
+    </file>
+    <file name="mockup apreza-crop-u41159.png" crc="212915003" seo="true" ref="4-alcances-del-concepto-de-violencia">
+      <caption webpage="4-alcances-del-concepto-de-violencia" alt=""/>
+    </file>
+    <file name="mockup caballero-crop-u41214.png" crc="3917484712" seo="true" ref="5-la-garantía-del-derecho-a-la-participación-política">
+      <caption webpage="5-la-garantía-del-derecho-a-la-participación-política" alt=""/>
+    </file>
+    <file name="mockup flores-crop-u41594.png" crc="82140548" seo="true" ref="6-contingencia,-ironía-y-solidaridad">
+      <caption webpage="6-contingencia,-ironía-y-solidaridad" alt=""/>
+    </file>
+    <file name="mockup piña-crop-u41857.png" crc="3784922098" seo="true" ref="7-creación-de-listas-o-registros-de-personas">
+      <caption webpage="7-creación-de-listas-o-registros-de-personas" alt=""/>
+    </file>
+    <file name="mockup concha-crop-u42047.png" crc="43401511" seo="true" ref="8-judicialización-y-vida-de-la-diputación-migrante">
+      <caption webpage="8-judicialización-y-vida-de-la-diputación-migrante" alt=""/>
+    </file>
+  </folder>
+  <file name="1-los-principios-constitucionales.html" crc="226244524" seo="true" mt="1679083046354" redirect="true"/>
+  <file name="obras-desplazadas.html" crc="217369768" seo="true" mt="1679083447461" redirect="true"/>
+  <file name="pae-2023.html" crc="320533979" seo="true" mt="1678912536935" redirect="true"/>
+  <file name="index.html" crc="3769563820" seo="true" mt="1678903506910" redirect="true"/>
+  <file name="publicados.html" crc="4111086497" seo="true" mt="1678912418830" redirect="true"/>
+  <file name="2-una-sentencia-a-favor-de-las-mujeres.html" crc="381279593" seo="true" mt="1679083053576" redirect="true"/>
+  <file name="3-el-origen-nacional.html" crc="460242752" seo="true" mt="1679083056755" redirect="true"/>
+  <file name="4-alcances-del-concepto-de-violencia.html" crc="4163643382" seo="true" mt="1679083061756" redirect="true"/>
+  <file name="5-la-garantía-del-derecho-a-la-participación-política.html" crc="282990139" seo="true" mt="1679083067315" redirect="true"/>
+  <file name="6-contingencia,-ironía-y-solidaridad.html" crc="493590418" seo="true" mt="1679083322431" redirect="true"/>
+  <file name="7-creación-de-listas-o-registros-de-personas.html" crc="471230037" seo="true" mt="1679086034590" redirect="true"/>
+  <file name="8-judicialización-y-vida-de-la-diputación-migrante.html" crc="8980465" seo="true" mt="1679086150048" redirect="true"/>
+</manifest>
