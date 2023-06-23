@@ -1,891 +1,3360 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://sitio.gestioneditorial/index.html</loc>
-    <lastmod>2023-03-15</lastmod>
+    <loc>http://Editorial.tepjf/index.html</loc>
+    <lastmod>2023-06-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/header.svg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/header.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/logo-nueva-cromatica-2020.svg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/logo-nueva-cromatica-2020.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/search.svg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/search.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/twitter-editorial.svg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/twitter-editorial.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/fb-editorial.svg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/fb-editorial.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/footer.jpg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/footer.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/desplazados%202023-crop-u38285.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/desplazados%202023-crop-u43346.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/mockup%20gris-crop-u38289.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/pae-2023-crop-u43351.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/novedad.jpg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/mockup%20gris-crop-u44136.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/desplazados%202023-crop-u382852.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/desplazados%202023-crop-u433462.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/mockup%20gris-crop-u382892.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/pae-2023-crop-u433512.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/novedad2.jpg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/mockup%20gris280x187.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/footer320x88.jpg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/footer320x88.jpg</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://sitio.gestioneditorial/obras-desplazadas.html</loc>
-    <lastmod>2023-03-17</lastmod>
+    <loc>http://Editorial.tepjf/obras-desplazadas.html</loc>
+    <lastmod>2023-06-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/header.svg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/header.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/logo-nueva-cromatica-2020.svg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/logo-nueva-cromatica-2020.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/search.svg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/search.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/twitter-editorial.svg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/twitter-editorial.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/fb-editorial.svg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/fb-editorial.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/footer.jpg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/footer.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/axis-crop-u25130.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/axis-crop-u25130.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/flecha-back.svg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/flecha-back.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/mockup%20estrada-crop-u25112.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/ce_una-sentencia-a-favor-de-las-mujeres-crop-u25092.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/mockup%20marvan-crop-u25092.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/mockup%20estrada-crop-u25112.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/mockup%20maas-crop-u25055.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/mockup%20maas-crop-u25055.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/mockup%20caballero-crop-u34231.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/mockup%20caballero-crop-u34231.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/mockup%20apreza-crop-u25073.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/mockup%20apreza-crop-u25073.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/mockup%20flores-crop-u34304.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/mockup%20flores-crop-u34304.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/mockup%20concha-crop-u34330.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/mockup%20concha-crop-u34330.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/mockup%20pi%C3%B1a-crop-u34342.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/mockup%20pi%C3%B1a-crop-u34342.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/mockup%20novedades%20digitales%20copia-crop-u34317.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/ce_desigual-crop-u34317.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/mockup%20novedades%20digitales%20copia-crop-u34408.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/ce_el-servicio-publico_caballero-crop-u34408.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/mockup%20novedades%20digitales%20copia-crop-u34421.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/ce_cuando-la-justicia-es-insuficiente_roldan-crop-u34421.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/mockup%20novedades%20digitales%20copia-crop-u34394.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/ce_acciones-afirmativas-o-medidas-permanentes-crop-u34394.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/mockup%20novedades%20digitales%20copia-crop-u34460.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/ce_el-problema-del-activismo-crop-u34460.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/dhd-crop-u34491.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/dhd-la%20libertad%20religiosa-crop-u34491.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/dhd-crop-u34479.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/una%20aproximaci%C3%B3n%20a%20la%20cuesti%C3%B3n%20de%20la%20discapacidad-crop-u34479.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/dhd-crop-u34505.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/dhd-la%20libertad%20de%20expresion-crop-u34505.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/rje-crop-u35993.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/rje-crop-u35993.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/jea-crop-u34817.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/jea_decidir-en-la-era-de-la-(des)informacio%CC%81n-crop-u34817.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/jea-crop-u34800.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/realidad_y_perspectiva-crop-u34800.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/mockup%20novedades%20digitales%20copia-crop-u34984.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/comentarios%20a%20las%20srss-crop-u34984.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/fc-crop-u35062.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/fc_derechos-constitucionales-de-pueblso-originarios-crop-u35062.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/fc-crop-u35047.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/fc-srss-crop-u35047.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/fc-je%20inclusiva-crop-u43787.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/democracia_ilustrada_2023_6-crop-u42399.png</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://sitio.gestioneditorial/pae-2023.html</loc>
-    <lastmod>2023-03-15</lastmod>
+    <loc>http://Editorial.tepjf/en-proceso---pae-2023.html</loc>
+    <lastmod>2023-06-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/header.svg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/header.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/logo-nueva-cromatica-2020.svg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/logo-nueva-cromatica-2020.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/search.svg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/search.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/twitter-editorial.svg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/twitter-editorial.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/fb-editorial.svg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/fb-editorial.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/footer.jpg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/footer.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/flecha-back.svg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/flecha-back.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/axis-crop-u35782.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/axis-crop-u35782.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/axis-crop-u35347.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/axis-crop-u35347.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/mockup%20novedades%20digitales%20copia-crop-u35362.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/mockup%20novedades%20digitales%20copia-crop-u35362.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/mockup%20novedades%20digitales%20copia-crop-u35483.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/mockup%20novedades%20digitales%20copia-crop-u35483.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/mockup%20novedades%20digitales%20copia-crop-u35490.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/mockup%20novedades%20digitales%20copia-crop-u35490.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/mockup%20novedades%20digitales%20copia-crop-u35320.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/mockup%20novedades%20digitales%20copia-crop-u35320.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/mockup%20novedades%20digitales%20copia-crop-u35411.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/mockup%20novedades%20digitales%20copia-crop-u35411.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/mockup%20novedades%20digitales%20copia-crop-u35456.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/mockup%20novedades%20digitales%20copia-crop-u35456.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/mockup%20novedades%20digitales%20copia-crop-u35431.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/mockup%20novedades%20digitales%20copia-crop-u35431.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/mockup%20novedades%20digitales%20copia-crop-u35501.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/mockup%20novedades%20digitales%20copia-crop-u35501.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/mockup%20novedades%20digitales%20copia-crop-u35332.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/mockup%20novedades%20digitales%20copia-crop-u35332.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/mockup%20novedades%20digitales%20copia-crop-u35408.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/mockup%20novedades%20digitales%20copia-crop-u35408.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/mockup%20novedades%20digitales%20copia-crop-u35494.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/mockup%20novedades%20digitales%20copia-crop-u35494.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/mockup%20novedades%20digitales%20copia-crop-u35383.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/mockup%20novedades%20digitales%20copia-crop-u35383.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/mockup%20novedades%20digitales%20copia-crop-u35839.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/mockup%20novedades%20digitales%20copia-crop-u35839.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/mockup%20novedades%20digitales%20copia-crop-u35351.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/mockup%20novedades%20digitales%20copia-crop-u35351.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/mockup%20novedades%20digitales%20copia-crop-u35853.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/mockup%20novedades%20digitales%20copia-crop-u35853.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/mockup%20novedades%20digitales%20copia-crop-u35872.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/mockup%20novedades%20digitales%20copia-crop-u35872.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/dhd-crop-u35422.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/dhd-crop-u35422.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/dhd-crop-u35337.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/dhd-crop-u35337.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/jea-crop-u35444.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/jea-crop-u54368.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/jea-crop-u35471.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/jea-crop-u54374.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/mockup%20gris-crop-u36049.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/mockup%20gris-crop-u36049.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/mockup%20gris-crop-u36066.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/mockup%20gris-crop-u36066.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/mockup%20gris-crop-u36073.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/mockup%20gris-crop-u36073.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/rje-crop-u36031.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/rje-crop-u36031.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/rje-crop-u36010.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/rje-crop-u36010.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/srce.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/srce.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/cuadernilo-8-crop-u36246.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/cuadernilo-7-crop-u36209.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/cuadernilo-9-crop-u36258.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/cuadernilo-8-crop-u36246.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/cuadernilo-7-crop-u36209.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/cuadernilo-9-crop-u36258.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/cuadernilo-11-crop-u36310.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/cuadernilo-10-crop-u36294.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/cuadernilo-10-crop-u36294.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/cuadernilo-11-crop-u36310.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/cuadernilo-12-crop-u36326.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/cuadernilo-12-crop-u36326.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/gjyt-crop-u36415.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/gaceta-27y17-crop-u36415.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/gjyt-crop-u36500.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/gjyt-crop-u36500.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/gjyt-crop-u36514.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/gjyt-crop-u36514.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/mockup%20gris-crop-u36784.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/mockup%20gris-crop-u36784.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/mockup%20gris-crop-u36791.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/mockup%20gris-crop-u36791.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/mockup%20gris-crop-u36812.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/mockup%20gris-crop-u36812.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/mockup%20gris-crop-u36819.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/mockup%20gris-crop-u36819.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/mockup%20gris-crop-u36826.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/mockup%20gris-crop-u36826.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/mockup%20gris-crop-u36833.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/mockup%20gris-crop-u36833.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/mockup%20gris-crop-u36840.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/mockup%20gris-crop-u36840.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/mockup%20gris-crop-u36847.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/mockup%20gris-crop-u36847.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/mockup%20gris-crop-u36854.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/mockup%20gris-crop-u36854.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/mockup%20gris-crop-u36861.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/mockup%20gris-crop-u36861.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/mockup%20gris-crop-u36868.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/mockup%20gris-crop-u36868.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/mockup%20gris-crop-u36875.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/mockup%20gris-crop-u36875.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/mockup%20gris-crop-u36882.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/mockup%20gris-crop-u36882.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/mockup%20gris-crop-u36889.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/mockup%20gris-crop-u36889.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/mockup%20gris-crop-u36896.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/mockup%20gris-crop-u36896.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/mockup%20gris-crop-u36903.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/mockup%20gris-crop-u36903.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/mockup%20gris-crop-u36910.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/mockup%20gris-crop-u36910.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/mockup%20gris-crop-u36917.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/mockup%20gris-crop-u36917.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/mockup%20gris-crop-u37117.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/mockup%20gris-crop-u37117.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/mockup%20gris-crop-u37124.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/mockup%20gris-crop-u37124.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/fc-crop-u37097.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/fc-crop-u52093.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/fc-crop-u37133.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/fc-crop-u52536.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/fc-crop-u37084.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/fc-crop-u52529.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/fc-crop-u37641.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/fc-crop-u52728.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/fc-crop-u37625.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/fc-crop-u53386.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/fc-crop-u37657.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/fc-crop-u53405.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/fc-crop-u37693.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/fc_8_concurso-crop-u53999.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/fc-crop-u37705.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/fc-crop-u37097.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/fc-crop-u37673.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/fc-crop-u37133.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/fc-crop-u37738.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/fc-crop-u37084.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/fc-crop-u37722.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/fc-crop-u37693.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/fc-crop-u37754.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/fc-crop-u37641.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/fc-crop-u37788.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/fc-crop-u37705.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/fc-crop-u37775.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/fc-crop-u37775.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/fc-crop-u37805.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/fc-crop-u42958.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/fc-crop-u37828.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/fc-crop-u37754.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/fc-crop-u37908.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/fc-crop-u37788.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/fc-crop-u37821.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/fc-crop-u42862.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/fc-crop-u37892.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/fc-crop-u37805.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/fc-crop-u37825.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/fc-crop-u42845.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/fc-crop-u37877.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/fc-crop-u42973.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/fc-crop-u37924.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/informe_labores_2021_2022_sr_monterrey-crop-u54221.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/informe_labores_2021_2022_sr_xalapa.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/informe_labores_2021_2022_sr_guadalajara.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/informe_labores_2021_2022_sr_toluca.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/informe_labores_2021_2022_sr_especializada.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/informe_labores_2021_2022_sr_cdmex_digital-crop-u54240.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/fc-crop-u37924.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/fc-crop-u43929.png</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://sitio.gestioneditorial/3-el-origen-nacional.html</loc>
-    <lastmod>2023-03-17</lastmod>
+    <loc>http://Editorial.tepjf/fc-je-inclusiva.html</loc>
+    <lastmod>2023-06-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/header.svg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/header.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/logo-nueva-cromatica-2020.svg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/logo-nueva-cromatica-2020.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/search.svg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/search.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/etapa.svg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/etapa.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/calendario.svg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/calendario.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/area.svg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/area.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/cuartillas.svg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/cuartillas.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/costo.svg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/costo.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/tiraje.svg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/tiraje.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/soporte.svg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/soporte.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/twitter-editorial.svg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/twitter-editorial.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/fb-editorial.svg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/fb-editorial.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/footer.jpg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/footer.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/mockup%20maas-crop-u40863.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/flecha-back.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/fc-je%20inclusiva-crop-u48954.png</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://sitio.gestioneditorial/publicados.html</loc>
-    <lastmod>2023-03-15</lastmod>
+    <loc>http://Editorial.tepjf/publicados.html</loc>
+    <lastmod>2023-06-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/header.svg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/header.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/logo-nueva-cromatica-2020.svg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/logo-nueva-cromatica-2020.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/search.svg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/search.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/twitter-editorial.svg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/twitter-editorial.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/fb-editorial.svg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/fb-editorial.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/footer.jpg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/footer.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/flecha-back.svg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/flecha-back.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/fc-crop-u39200.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/informe_labores_2021_2022_sr_xalapa.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/fc-crop-u39204.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/informe_labores_2021_2022_sr_guadalajara.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/fc-crop-u39185.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/informe_labores_2021_2022_sr_toluca.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/fc-crop-u39188.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/informe_labores_2021_2022_sr_especializada.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/fc-crop-u39196.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/informe_labores_2021_2022_sr_cdmex_digital-crop-u39204.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/fc-crop-u39193.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/informe_labores_2021_2022_sr_monterrey-crop-u39185.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/cuadernilo-8-crop-u39048.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/una%20aproximaci%C3%B3n%20a%20la%20cuesti%C3%B3n%20de%20la%20discapacidad-crop-u44725.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/cuadernilo-9-crop-u39056.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/cuadernilo-8-crop-u39048.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/cuadernilo-7-crop-u39024.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/cuadernilo-9-crop-u39056.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/cuadernilo-11-crop-u39052.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/cuadernilo-7-crop-u39024.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/cuadernilo-10-crop-u39050.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/cuadernilo-11-crop-u39052.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/cuadernilo-12-crop-u39054.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/cuadernilo-10-crop-u39050.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/fc-crop-u392002.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/cuadernilo-12-crop-u39054.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/fc-crop-u392042.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/ce_una-sentencia-a-favor-de-las-mujeres-crop-u44935.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/fc-crop-u391852.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/mockup%20estrada-crop-u44948.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/fc-crop-u391882.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/ce_cuando-la-justicia-es-insuficiente_roldan-crop-u45310.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/fc-crop-u391962.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/ce_acciones-afirmativas-o-medidas-permanentes-crop-u45132.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/fc-crop-u391932.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/ce_el-servicio-publico_caballero-crop-u45285.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/cuadernilo-8-crop-u390482.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/jea_decidir-en-la-era-de-la-(des)informacio%CC%81n-crop-u45013.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/cuadernilo-9-crop-u390562.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/realidad_y_perspectiva-crop-u45257.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/cuadernilo-7-crop-u390242.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/fc_derechos-constitucionales-de-pueblso-originarios-crop-u45066.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/cuadernilo-11-crop-u390522.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/axis-crop-u45153.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/cuadernilo-10-crop-u390502.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/gjyt-crop-u45216.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/cuadernilo-12-crop-u390542.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/cuadernilo-7-crop-u390242.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/cuadernilo-8-crop-u390482.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/cuadernilo-10-crop-u390502.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/cuadernilo-11-crop-u390522.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/cuadernilo-12-crop-u390542.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/cuadernilo-9-crop-u390562.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/informe_labores_2021_2022_sr_monterrey-crop-u391852.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/informe_labores_2021_2022_sr_toluca-crop-u39188.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/informe_labores_2021_2022_sr_xalapa-crop-u39196.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/informe_labores_2021_2022_sr_especializada-crop-u39193.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/informe_labores_2021_2022_sr_guadalajara-crop-u39200.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/informe_labores_2021_2022_sr_cdmex_digital-crop-u392042.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/una%20aproximaci%C3%B3n%20a%20la%20cuesti%C3%B3n%20de%20la%20discapacidad-crop-u447252.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/ce_una-sentencia-a-favor-de-las-mujeres-crop-u449352.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/mockup%20estrada-crop-u449482.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/ce_acciones-afirmativas-o-medidas-permanentes-crop-u451322.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/ce_cuando-la-justicia-es-insuficiente_roldan-crop-u453102.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/jea_decidir-en-la-era-de-la-(des)informacio%CC%81n-crop-u450132.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/ce_el-servicio-publico_caballero-crop-u452852.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/fc_derechos-constitucionales-de-pueblso-originarios-crop-u450662.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/axis-crop-u451532.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/realidad_y_perspectiva-crop-u452572.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/gjyt-crop-u452162.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/ce_el-problema-del-activismo-crop-u54571.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/democracia_ilustrada_2023_6217x272.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/democracia_ilustrada_2023_637x46.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/ce_el-problema-del-activismo-crop-u545712.png</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://sitio.gestioneditorial/2-una-sentencia-a-favor-de-las-mujeres.html</loc>
-    <lastmod>2023-03-17</lastmod>
+    <loc>http://Editorial.tepjf/2-una-sentencia-a-favor-de-las-mujeres.html</loc>
+    <lastmod>2023-06-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/header.svg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/header.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/logo-nueva-cromatica-2020.svg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/logo-nueva-cromatica-2020.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/search.svg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/search.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/etapa.svg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/etapa.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/calendario.svg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/calendario.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/area.svg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/area.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/cuartillas.svg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/cuartillas.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/costo.svg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/costo.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/tiraje.svg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/tiraje.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/soporte.svg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/soporte.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/twitter-editorial.svg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/twitter-editorial.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/fb-editorial.svg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/fb-editorial.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/footer.jpg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/footer.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/mockup%20marvan-crop-u40581.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/flecha-back.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/ce_una-sentencia-a-favor-de-las-mujeres-crop-u40581.png</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://sitio.gestioneditorial/1-los-principios-constitucionales.html</loc>
-    <lastmod>2023-03-17</lastmod>
+    <loc>http://Editorial.tepjf/3-el-origen-nacional.html</loc>
+    <lastmod>2023-06-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/header.svg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/header.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/logo-nueva-cromatica-2020.svg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/logo-nueva-cromatica-2020.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/search.svg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/search.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/etapa.svg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/etapa.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/calendario.svg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/calendario.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/area.svg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/area.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/cuartillas.svg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/cuartillas.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/costo.svg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/costo.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/tiraje.svg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/tiraje.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/soporte.svg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/soporte.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/mockup%20estrada-crop-u11029.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/twitter-editorial.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/twitter-editorial.svg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/fb-editorial.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/fb-editorial.svg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/footer.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/footer.jpg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/flecha-back.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/mockup%20maas-crop-u40863.png</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://sitio.gestioneditorial/4-alcances-del-concepto-de-violencia.html</loc>
-    <lastmod>2023-03-17</lastmod>
+    <loc>http://Editorial.tepjf/4-alcances-del-concepto-de-violencia.html</loc>
+    <lastmod>2023-06-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/header.svg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/header.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/logo-nueva-cromatica-2020.svg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/logo-nueva-cromatica-2020.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/search.svg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/search.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/etapa.svg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/etapa.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/calendario.svg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/calendario.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/area.svg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/area.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/cuartillas.svg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/cuartillas.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/costo.svg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/costo.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/tiraje.svg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/tiraje.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/soporte.svg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/soporte.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/twitter-editorial.svg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/twitter-editorial.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/fb-editorial.svg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/fb-editorial.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/footer.jpg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/footer.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/mockup%20apreza-crop-u41159.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/flecha-back.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/mockup%20apreza-crop-u41159.png</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://sitio.gestioneditorial/5-la-garant%C3%ADa-del-derecho-a-la-participaci%C3%B3n-pol%C3%ADtica.html</loc>
-    <lastmod>2023-03-17</lastmod>
+    <loc>http://Editorial.tepjf/5-la-garant%C3%ADa-del-derecho-a-la-participaci%C3%B3n-pol%C3%ADtica.html</loc>
+    <lastmod>2023-06-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/header.svg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/header.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/logo-nueva-cromatica-2020.svg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/logo-nueva-cromatica-2020.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/search.svg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/search.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/etapa.svg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/etapa.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/calendario.svg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/calendario.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/area.svg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/area.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/cuartillas.svg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/cuartillas.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/costo.svg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/costo.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/tiraje.svg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/tiraje.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/soporte.svg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/soporte.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/twitter-editorial.svg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/twitter-editorial.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/fb-editorial.svg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/fb-editorial.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/footer.jpg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/footer.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/mockup%20caballero-crop-u41214.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/flecha-back.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/mockup%20caballero-crop-u41214.png</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://sitio.gestioneditorial/6-contingencia,-iron%C3%ADa-y-solidaridad.html</loc>
-    <lastmod>2023-03-17</lastmod>
+    <loc>http://Editorial.tepjf/6-contingencia,-iron%C3%ADa-y-solidaridad.html</loc>
+    <lastmod>2023-06-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/header.svg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/header.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/logo-nueva-cromatica-2020.svg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/logo-nueva-cromatica-2020.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/search.svg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/search.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/etapa.svg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/etapa.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/calendario.svg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/calendario.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/area.svg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/area.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/cuartillas.svg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/cuartillas.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/costo.svg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/costo.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/tiraje.svg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/tiraje.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/soporte.svg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/soporte.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/twitter-editorial.svg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/twitter-editorial.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/fb-editorial.svg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/fb-editorial.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/footer.jpg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/footer.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/mockup%20flores-crop-u41594.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/flecha-back.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/mockup%20flores-crop-u41594.png</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://sitio.gestioneditorial/7-creaci%C3%B3n-de-listas-o-registros-de-personas.html</loc>
-    <lastmod>2023-03-17</lastmod>
+    <loc>http://Editorial.tepjf/7-creaci%C3%B3n-de-listas-o-registros-de-personas.html</loc>
+    <lastmod>2023-06-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/header.svg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/header.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/logo-nueva-cromatica-2020.svg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/logo-nueva-cromatica-2020.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/search.svg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/search.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/etapa.svg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/etapa.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/calendario.svg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/calendario.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/area.svg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/area.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/cuartillas.svg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/cuartillas.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/costo.svg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/costo.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/tiraje.svg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/tiraje.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/soporte.svg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/soporte.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/twitter-editorial.svg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/twitter-editorial.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/fb-editorial.svg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/fb-editorial.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/footer.jpg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/footer.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/mockup%20pi%C3%B1a-crop-u41857.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/flecha-back.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/mockup%20pi%C3%B1a-crop-u41857.png</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://sitio.gestioneditorial/8-judicializaci%C3%B3n-y-vida-de-la-diputaci%C3%B3n-migrante.html</loc>
-    <lastmod>2023-03-17</lastmod>
+    <loc>http://Editorial.tepjf/8-judicializaci%C3%B3n-y-vida-de-la-diputaci%C3%B3n-migrante.html</loc>
+    <lastmod>2023-06-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/header.svg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/header.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/logo-nueva-cromatica-2020.svg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/logo-nueva-cromatica-2020.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/search.svg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/search.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/etapa.svg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/etapa.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/calendario.svg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/calendario.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/area.svg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/area.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/cuartillas.svg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/cuartillas.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/costo.svg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/costo.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/tiraje.svg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/tiraje.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/soporte.svg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/soporte.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/twitter-editorial.svg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/twitter-editorial.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/fb-editorial.svg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/fb-editorial.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/footer.jpg</image:loc>
+      <image:loc>http://Editorial.tepjf/images/footer.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sitio.gestioneditorial/images/mockup%20concha-crop-u42047.png</image:loc>
+      <image:loc>http://Editorial.tepjf/images/flecha-back.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/mockup%20concha-crop-u42047.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://Editorial.tepjf/fc-democracia-ilustrada.html</loc>
+    <lastmod>2023-06-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/header.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/logo-nueva-cromatica-2020.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/search.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/etapa.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/calendario.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/area.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/cuartillas.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/costo.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/tiraje.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/soporte.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/twitter-editorial.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/fb-editorial.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/footer.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/flecha-back.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/democracia_ilustrada_2023_6-crop-u42320.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://Editorial.tepjf/fc-derechos-constitucionales.html</loc>
+    <lastmod>2023-06-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/header.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/logo-nueva-cromatica-2020.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/search.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/etapa.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/calendario.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/area.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/cuartillas.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/costo.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/tiraje.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/soporte.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/twitter-editorial.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/fb-editorial.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/footer.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/flecha-back.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/fc_derechos-constitucionales-de-pueblso-originarios-crop-u42532.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://Editorial.tepjf/fc-octavo-concurso.html</loc>
+    <lastmod>2023-06-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/header.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/logo-nueva-cromatica-2020.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/search.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/etapa.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/calendario.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/area.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/cuartillas.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/costo.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/tiraje.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/soporte.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/twitter-editorial.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/fb-editorial.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/footer.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/flecha-back.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/fc_8_concurso-crop-u42772.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://Editorial.tepjf/axis-4.html</loc>
+    <lastmod>2023-06-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/header.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/logo-nueva-cromatica-2020.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/search.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/etapa.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/calendario.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/area.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/cuartillas.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/costo.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/tiraje.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/soporte.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/twitter-editorial.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/fb-editorial.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/footer.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/flecha-back.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/axis-crop-u45959.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://Editorial.tepjf/9-desigual-entre-desiguales.html</loc>
+    <lastmod>2023-06-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/header.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/logo-nueva-cromatica-2020.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/search.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/etapa.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/calendario.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/area.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/cuartillas.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/costo.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/tiraje.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/soporte.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/twitter-editorial.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/fb-editorial.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/footer.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/flecha-back.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/ce_desigual-crop-u46251.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://Editorial.tepjf/10-cuando-la-justicia-es-insuficiente.html</loc>
+    <lastmod>2023-06-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/header.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/logo-nueva-cromatica-2020.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/search.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/etapa.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/calendario.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/area.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/cuartillas.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/costo.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/tiraje.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/soporte.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/twitter-editorial.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/fb-editorial.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/footer.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/flecha-back.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/ce_cuando-la-justicia-es-insuficiente_roldan-crop-u46355.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://Editorial.tepjf/11-el-servicio-p%C3%BAblico-como-garant%C3%ADa.html</loc>
+    <lastmod>2023-06-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/header.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/logo-nueva-cromatica-2020.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/search.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/etapa.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/calendario.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/area.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/cuartillas.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/costo.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/tiraje.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/soporte.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/twitter-editorial.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/fb-editorial.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/footer.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/flecha-back.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/ce_el-servicio-publico_caballero-crop-u46516.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://Editorial.tepjf/12-acciones-afirmativas.html</loc>
+    <lastmod>2023-06-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/header.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/logo-nueva-cromatica-2020.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/search.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/etapa.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/calendario.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/area.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/cuartillas.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/costo.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/tiraje.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/soporte.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/twitter-editorial.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/fb-editorial.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/footer.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/flecha-back.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/ce_acciones-afirmativas-o-medidas-permanentes-crop-u46729.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://Editorial.tepjf/13-el-problema-del-activismo.html</loc>
+    <lastmod>2023-06-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/header.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/logo-nueva-cromatica-2020.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/search.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/etapa.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/calendario.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/area.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/cuartillas.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/costo.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/tiraje.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/soporte.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/twitter-editorial.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/fb-editorial.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/footer.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/flecha-back.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/ce_el-problema-del-activismo-crop-u46971.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://Editorial.tepjf/dh-la-libertad-de-expresi%C3%B3n-como-pilar.html</loc>
+    <lastmod>2023-06-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/header.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/logo-nueva-cromatica-2020.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/search.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/etapa.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/calendario.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/area.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/cuartillas.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/costo.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/tiraje.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/soporte.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/twitter-editorial.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/fb-editorial.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/footer.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/flecha-back.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/dhd-la%20libertad%20de%20expresion-crop-u47023.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://Editorial.tepjf/dh-libertad-religiosa-y-democracia.html</loc>
+    <lastmod>2023-06-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/header.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/logo-nueva-cromatica-2020.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/search.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/etapa.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/calendario.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/area.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/cuartillas.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/costo.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/tiraje.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/soporte.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/twitter-editorial.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/fb-editorial.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/footer.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/flecha-back.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/dhd-la%20libertad%20religiosa-crop-u47364.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://Editorial.tepjf/dh-una-aproximaci%C3%B3n.html</loc>
+    <lastmod>2023-06-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/header.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/logo-nueva-cromatica-2020.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/search.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/etapa.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/calendario.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/area.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/cuartillas.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/costo.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/tiraje.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/soporte.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/twitter-editorial.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/fb-editorial.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/footer.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/flecha-back.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/una%20aproximaci%C3%B3n%20a%20la%20cuesti%C3%B3n%20de%20la%20discapacidad-crop-u47501.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://Editorial.tepjf/revista-justicia-28.html</loc>
+    <lastmod>2023-06-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/header.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/logo-nueva-cromatica-2020.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/search.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/etapa.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/calendario.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/area.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/cuartillas.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/costo.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/tiraje.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/soporte.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/twitter-editorial.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/fb-editorial.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/footer.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/flecha-back.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/rje-crop-u47705.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://Editorial.tepjf/jea-realidad-y-perspectiva.html</loc>
+    <lastmod>2023-06-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/header.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/logo-nueva-cromatica-2020.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/search.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/etapa.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/calendario.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/area.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/cuartillas.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/costo.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/tiraje.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/soporte.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/twitter-editorial.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/fb-editorial.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/footer.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/flecha-back.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/realidad_y_perspectiva-crop-u47796.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://Editorial.tepjf/jea-decidir-en-la-era.html</loc>
+    <lastmod>2023-06-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/header.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/logo-nueva-cromatica-2020.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/search.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/etapa.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/calendario.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/area.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/cuartillas.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/costo.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/tiraje.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/soporte.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/twitter-editorial.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/fb-editorial.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/footer.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/flecha-back.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/jea_decidir-en-la-era-de-la-(des)informaci%C3%B3n-crop-u48101.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://Editorial.tepjf/srss-comentarios-a-las-sentencias-relevantes.html</loc>
+    <lastmod>2023-06-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/header.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/logo-nueva-cromatica-2020.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/search.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/etapa.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/calendario.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/area.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/cuartillas.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/costo.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/tiraje.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/soporte.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/twitter-editorial.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/fb-editorial.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/footer.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/flecha-back.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/comentarios%20a%20las%20srss-crop-u48292.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://Editorial.tepjf/fc-sentencias-relevantes-de-la-ss.html</loc>
+    <lastmod>2023-06-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/header.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/logo-nueva-cromatica-2020.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/search.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/etapa.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/calendario.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/area.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/cuartillas.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/costo.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/tiraje.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/soporte.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/twitter-editorial.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/fb-editorial.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/footer.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/flecha-back.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/fc-srss-crop-u48596.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://Editorial.tepjf/1-los-principios-constitucionales.html</loc>
+    <lastmod>2023-06-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/header.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/logo-nueva-cromatica-2020.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/search.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/etapa.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/calendario.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/area.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/cuartillas.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/costo.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/tiraje.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/soporte.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/mockup%20estrada-crop-u11029.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/twitter-editorial.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/fb-editorial.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/footer.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/flecha-back.svg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://Editorial.tepjf/axis-5.html</loc>
+    <lastmod>2023-06-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/header.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/logo-nueva-cromatica-2020.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/search.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/etapa.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/calendario.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/area.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/cuartillas.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/costo.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/tiraje.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/soporte.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/twitter-editorial.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/fb-editorial.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/footer.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/flecha-back.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/axis-crop-u49021.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://Editorial.tepjf/1_ce-los-%C3%A1mbitos-del-control.html</loc>
+    <lastmod>2023-06-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/header.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/logo-nueva-cromatica-2020.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/search.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/etapa.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/calendario.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/area.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/cuartillas.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/costo.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/tiraje.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/soporte.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/twitter-editorial.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/fb-editorial.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/footer.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/flecha-back.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/mockup%20novedades%20digitales%20copia-crop-u49343.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://Editorial.tepjf/2_ce-la-acci%C3%B3n-de-terceros.html</loc>
+    <lastmod>2023-06-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/header.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/logo-nueva-cromatica-2020.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/search.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/etapa.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/calendario.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/area.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/cuartillas.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/costo.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/tiraje.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/soporte.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/twitter-editorial.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/fb-editorial.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/footer.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/flecha-back.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/mockup%20novedades%20digitales%20copia-crop-u49373.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://Editorial.tepjf/3_ce-inconstitucionalidad-de-la-sanci%C3%B3n-a-candidatos.html</loc>
+    <lastmod>2023-06-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/header.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/logo-nueva-cromatica-2020.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/search.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/etapa.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/calendario.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/area.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/cuartillas.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/costo.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/tiraje.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/soporte.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/twitter-editorial.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/fb-editorial.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/footer.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/flecha-back.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/mockup%20novedades%20digitales%20copia-crop-u49650.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://Editorial.tepjf/4_ce-la-propaganda-electoral-y-el-sexismo.html</loc>
+    <lastmod>2023-06-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/header.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/logo-nueva-cromatica-2020.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/search.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/etapa.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/calendario.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/area.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/cuartillas.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/costo.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/tiraje.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/soporte.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/twitter-editorial.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/fb-editorial.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/footer.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/flecha-back.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/mockup%20novedades%20digitales%20copia-crop-u49874.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://Editorial.tepjf/5_ce-la-violencia-pol%C3%ADtica-en-raz%C3%B3n-de-g%C3%A9nero.html</loc>
+    <lastmod>2023-06-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/header.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/logo-nueva-cromatica-2020.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/search.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/etapa.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/calendario.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/area.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/cuartillas.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/costo.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/tiraje.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/soporte.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/twitter-editorial.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/fb-editorial.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/footer.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/flecha-back.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/mockup%20novedades%20digitales%20copia-crop-u50030.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://Editorial.tepjf/dhd_1-constituci%C3%B3n,-h%C3%ADper-constituci%C3%B3n.html</loc>
+    <lastmod>2023-06-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/header.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/logo-nueva-cromatica-2020.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/search.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/etapa.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/calendario.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/area.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/cuartillas.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/costo.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/tiraje.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/soporte.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/twitter-editorial.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/fb-editorial.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/footer.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/flecha-back.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/dhd-crop-u50384.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://Editorial.tepjf/1_je-29.html</loc>
+    <lastmod>2023-06-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/header.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/logo-nueva-cromatica-2020.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/search.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/etapa.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/calendario.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/area.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/cuartillas.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/costo.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/tiraje.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/soporte.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/twitter-editorial.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/fb-editorial.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/footer.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/flecha-back.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/rje-crop-u50442.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://Editorial.tepjf/2_je-30.html</loc>
+    <lastmod>2023-06-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/header.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/logo-nueva-cromatica-2020.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/search.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/etapa.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/calendario.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/area.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/cuartillas.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/costo.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/tiraje.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/soporte.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/twitter-editorial.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/fb-editorial.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/footer.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/flecha-back.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/rje-crop-u50622.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://Editorial.tepjf/memorias.html</loc>
+    <lastmod>2023-06-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/header.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/logo-nueva-cromatica-2020.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/search.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/etapa.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/calendario.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/area.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/cuartillas.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/costo.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/tiraje.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/soporte.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/twitter-editorial.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/fb-editorial.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/footer.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/flecha-back.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/memorias_2.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://Editorial.tepjf/gjt_1-26.html</loc>
+    <lastmod>2023-06-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/header.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/logo-nueva-cromatica-2020.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/search.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/etapa.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/calendario.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/area.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/cuartillas.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/costo.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/tiraje.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/soporte.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/twitter-editorial.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/fb-editorial.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/footer.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/flecha-back.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/gaceta-27y17-crop-u51022.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://Editorial.tepjf/me_1-procedimiento-especial-sancionador.html</loc>
+    <lastmod>2023-06-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/header.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/logo-nueva-cromatica-2020.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/search.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/etapa.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/calendario.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/area.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/cuartillas.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/costo.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/tiraje.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/soporte.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/twitter-editorial.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/fb-editorial.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/footer.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/flecha-back.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/mockup%20gris-crop-u51351.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://Editorial.tepjf/me_2-derecho-procesal-electoral.html</loc>
+    <lastmod>2023-06-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/header.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/logo-nueva-cromatica-2020.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/search.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/etapa.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/calendario.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/area.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/cuartillas.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/costo.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/tiraje.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/soporte.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/twitter-editorial.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/fb-editorial.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/footer.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/flecha-back.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/mockup%20gris-crop-u51388.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://Editorial.tepjf/me_3-organismos-p%C3%BAblicos-locales.html</loc>
+    <lastmod>2023-06-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/header.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/logo-nueva-cromatica-2020.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/search.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/etapa.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/calendario.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/area.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/cuartillas.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/costo.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/tiraje.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/soporte.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/twitter-editorial.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/fb-editorial.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/footer.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/flecha-back.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/mockup%20gris-crop-u51624.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://Editorial.tepjf/me_4-democracia-participativa.html</loc>
+    <lastmod>2023-06-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/header.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/logo-nueva-cromatica-2020.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/search.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/etapa.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/calendario.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/area.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/cuartillas.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/costo.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/tiraje.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/soporte.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/twitter-editorial.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/fb-editorial.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/footer.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/flecha-back.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/mockup%20gris-crop-u51880.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://Editorial.tepjf/fc-nr1-constitucionalismo-transformador.html</loc>
+    <lastmod>2023-06-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/header.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/logo-nueva-cromatica-2020.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/search.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/etapa.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/calendario.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/area.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/cuartillas.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/costo.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/tiraje.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/soporte.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/twitter-editorial.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/fb-editorial.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/footer.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/flecha-back.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/mockup%20gris-crop-u52144.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://Editorial.tepjf/fc-nr2-9no-concurso.html</loc>
+    <lastmod>2023-06-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/header.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/logo-nueva-cromatica-2020.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/search.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/etapa.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/calendario.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/area.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/cuartillas.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/costo.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/tiraje.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/soporte.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/twitter-editorial.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/fb-editorial.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/footer.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/flecha-back.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/mockup%20gris-crop-u52433.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://Editorial.tepjf/fc-nr3-est%C3%A1ndares-internacionales.html</loc>
+    <lastmod>2023-06-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/header.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/logo-nueva-cromatica-2020.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/search.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/etapa.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/calendario.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/area.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/cuartillas.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/costo.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/tiraje.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/soporte.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/twitter-editorial.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/fb-editorial.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/footer.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/flecha-back.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/mockup%20gris-crop-u52694.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://Editorial.tepjf/fc-nr4-observatorios-de-la-rmje.html</loc>
+    <lastmod>2023-06-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/header.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/logo-nueva-cromatica-2020.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/search.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/etapa.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/calendario.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/area.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/cuartillas.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/costo.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/tiraje.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/soporte.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/twitter-editorial.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/fb-editorial.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/footer.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/flecha-back.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/mockup%20gris-crop-u52878.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://Editorial.tepjf/jea-justicia-electoral-en-im%C3%A1genes-2022.html</loc>
+    <lastmod>2023-06-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/header.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/logo-nueva-cromatica-2020.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/search.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/etapa.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/calendario.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/area.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/cuartillas.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/costo.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/tiraje.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/soporte.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/twitter-editorial.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/fb-editorial.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/footer.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/mockup%20gris-crop-u53082.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://Editorial.tepjf/jea-justicia-electoral-en-im%C3%A1genes-2023.html</loc>
+    <lastmod>2023-06-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/header.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/logo-nueva-cromatica-2020.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/search.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/etapa.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/calendario.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/area.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/cuartillas.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/costo.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/tiraje.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/soporte.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/twitter-editorial.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/fb-editorial.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/footer.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/mockup%20gris-crop-u53145.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://Editorial.tepjf/fc-nr5-c%C3%B3digo-modelo-de-etica.html</loc>
+    <lastmod>2023-06-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/header.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/logo-nueva-cromatica-2020.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/search.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/etapa.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/calendario.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/area.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/cuartillas.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/costo.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/tiraje.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/soporte.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/twitter-editorial.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/fb-editorial.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/footer.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/flecha-back.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/mockup%20gris-crop-u53577.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://Editorial.tepjf/fc-nr6-%C2%BFpor-qu%C3%A9.html</loc>
+    <lastmod>2023-06-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/header.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/logo-nueva-cromatica-2020.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/search.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/etapa.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/calendario.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/area.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/cuartillas.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/costo.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/tiraje.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/soporte.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/twitter-editorial.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/fb-editorial.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/footer.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/flecha-back.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/mockup%20gris-crop-u53648.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://Editorial.tepjf/6_ce-la-protecci%C3%B3n-del-ejercicio.html</loc>
+    <lastmod>2023-06-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/header.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/logo-nueva-cromatica-2020.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/search.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/etapa.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/calendario.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/area.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/cuartillas.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/costo.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/tiraje.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/soporte.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/twitter-editorial.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/fb-editorial.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/footer.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/flecha-back.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/mockup%20novedades%20digitales%20copia-crop-u50217.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://Editorial.tepjf/bol-tribunal-electoral.-di%C3%A1logos-con-la-cr%C3%ADtica.html</loc>
+    <lastmod>2023-06-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/header.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/logo-nueva-cromatica-2020.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/search.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/etapa.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/calendario.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/area.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/cuartillas.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/costo.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/tiraje.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/soporte.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/twitter-editorial.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/fb-editorial.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/footer.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/flecha-back.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/mockup%20gris-crop-u54769.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://Editorial.tepjf/me_5-control-de-constitucionalidad.html</loc>
+    <lastmod>2023-06-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/header.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/logo-nueva-cromatica-2020.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/search.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/etapa.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/calendario.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/area.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/cuartillas.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/costo.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/tiraje.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/soporte.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/twitter-editorial.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/fb-editorial.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/footer.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/flecha-back.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/mockup%20gris-crop-u55047.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://Editorial.tepjf/7_ce-la-paridad-de-g%C3%A9nero.html</loc>
+    <lastmod>2023-06-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/header.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/logo-nueva-cromatica-2020.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/search.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/etapa.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/calendario.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/area.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/cuartillas.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/costo.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/tiraje.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/soporte.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/twitter-editorial.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/fb-editorial.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/footer.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/flecha-back.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/mockup%20novedades%20digitales%20copia-crop-u55204.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://Editorial.tepjf/me_6-partidos-politicos.html</loc>
+    <lastmod>2023-06-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/header.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/logo-nueva-cromatica-2020.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/search.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/etapa.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/calendario.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/area.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/cuartillas.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/costo.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/tiraje.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/soporte.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/twitter-editorial.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/fb-editorial.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/footer.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/flecha-back.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Editorial.tepjf/images/mockup%20gris-crop-u56026.png</image:loc>
     </image:image>
   </url>
 </urlset>
